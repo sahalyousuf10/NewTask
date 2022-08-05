@@ -1,0 +1,8 @@
+com/sahal/Product_Service/mapper/ProductMapper.class
+com/sahal/Product_Service/controller/ProductController.class
+com/sahal/Product_Service/dto/ProductDto.class
+com/sahal/Product_Service/service/ProductService.class
+com/sahal/Product_Service/ProductServiceApplication.class
+com/sahal/Product_Service/repository/ProductRepository.class
+com/sahal/Product_Service/mapper/ProductMapperImpl.class
+com/sahal/Product_Service/model/Product.class
